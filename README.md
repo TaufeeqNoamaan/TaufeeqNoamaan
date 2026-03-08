@@ -1,110 +1,138 @@
-# Hi there, I'm Taufeeq Noamaan! 👋
+# Hi, I'm Taufeeq Noamaan 👋
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp. com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver)](https://git. io/typing-svg)
-  
-</div>
+Software engineer focused on **AI-driven systems, distributed architectures, and scalable backend platforms**.
 
-## 🚀 About Me
+I enjoy designing systems where **data, events, and intelligence work together to power adaptive software.**
 
-I'm a passionate software engineer with a love for building scalable applications and solving complex problems. I thrive on learning new technologies and applying them to create innovative solutions. 
+---
 
-- 🔭 I'm currently working on cutting-edge projects using modern tech stacks
-- 🌱 I'm constantly learning and exploring new technologies
-- ⚡ Fun fact: I debug with console.log() and I'm not ashamed! 
+## 🚀 Current Focus
 
-## 🛠️ Tech Stack
+* AI-driven analytics platforms
+* Event-driven microservices
+* LLM pipelines (RAG, inference orchestration)
+* Distributed data pipelines
+* Scalable backend architecture
+
+---
+
+## 🧠 Engineering Interests
+
+* Decision engines
+* Runtime behavioral analytics
+* Event streaming systems
+* High throughput backend services
+* AI infrastructure and tooling
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
-![Python](https://img. shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields. io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend
-![React](https://img. shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000? style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue. js](https://img.shields. io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC? style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img. shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### Backend & Systems
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img. shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields. io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Data & Streaming
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img. shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+### AI / ML
+
+* Retrieval Augmented Generation (RAG)
+* Vector databases
+* LLM orchestration
+* Local model inference
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws)
+
+---
+
+## 📦 Featured Projects
+
+### AI Analytics Engine
+
+Real-time behavioral analytics system that adapts application behavior based on user events.
+
+**Architecture**
+
+* Event ingestion → Kafka
+* Stream processing
+* Decision engine
+* Client runtime adaptation
+
+---
+
+### LLM RAG Pipeline
+
+Enterprise document search and question answering system using retrieval-augmented generation.
+
+**Features**
+
+* vector embeddings
+* semantic retrieval
+* context injection
+* local inference support
+
+---
+
+### Event Processing Framework
+
+High-throughput event pipeline for microservices.
+
+**Stack**
+
+* Kafka
+* Redis
+* distributed workers
+* async processing
+
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats. vercel.app/api? username=TaufeeqNoamaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqNoamaan&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=TaufeeqNoamaan&theme=tokyonight&hide_border=true)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaufeeqNoamaan\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-## 🏆 GitHub Trophies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaufeeqNoamaan\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/? username=TaufeeqNoamaan&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaufeeqNoamaan\&theme=tokyonight\&hide_border=true)
+
+---
 
 ## 📈 Activity Graph
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaufeeqNoamaan&theme=tokyo-night&hide_border=true)
-  
-</div>
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufeeq-noamaan)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufeeqnoamaan@outlook.com)
-  
-</div>
-
-## 💭 Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel. app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
-## 👀 Profile Views
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/TaufeeqNoamaan/count.svg)
-  
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaufeeqNoamaan\&theme=tokyo-night\&hide_border=true)
 
 ---
+
+## 🧠 Engineering Philosophy
+
+> Software engineering is not just writing code.
+> It is designing **systems that scale, adapt, and evolve.**
+
+---
+
+## 🤝 Connect
+
+LinkedIn
+https://linkedin.com/in/taufeeq-noamaan
+
+Email
+[taufeeqnoamaan@outlook.com](mailto:taufeeqnoamaan@outlook.com)
